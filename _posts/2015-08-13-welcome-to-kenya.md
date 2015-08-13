@@ -44,7 +44,5 @@ On the way back – I left earlier than the others who stayed a few days longer 
 
 ![Baringo](https://raw.githubusercontent.com/suhailenator/suhailenator.github.io/master/images/5.jpg)
 
-<img id="portrait" src="https://raw.githubusercontent.com/suhailenator/suhailenator.github.io/master/images/5.jpg" alt="Baringo" />
-
 ###Hakuna Matata!	
 

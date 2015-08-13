@@ -42,9 +42,7 @@ I can’t help but reflect on some of the difficulties of providing healthcare i
 
 On the way back – I left earlier than the others who stayed a few days longer – I managed to stop off in Lake Baringo where I saw a number of cool things including Hippos and Crocodiles! One week in, already many unforgettable experiences!
 
-<img id="Baringo" src="https://raw.githubusercontent.com/suhailenator/suhailenator.github.io/master/images/5.jpg" class="rotate90">
-
-![Baringo](https://raw.githubusercontent.com/suhailenator/suhailenator.github.io/master/images/5.jpgrotate=90)
+![Baringo](https://raw.githubusercontent.com/suhailenator/suhailenator.github.io/master/images/5.jpg)
 
 ###Hakuna Matata!	
 

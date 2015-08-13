@@ -1,6 +1,7 @@
 ---
 layout: post
-title: First week in Kenta
+title: First week in Kenya
+summary: A little something I wrote about my first week volunteering in Kenya.
 date: 2015-08-11
 categories: kenya
 ---

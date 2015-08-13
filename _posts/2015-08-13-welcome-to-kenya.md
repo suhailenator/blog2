@@ -5,7 +5,7 @@ date: 2015-08-11
 categories: kenya
 ---
 
-##Arrival
+######Arrival
 
 As some of you may know, this summer I’m spending a month volunteering at a Children’s home (IHF – see ihfonline.org) in Nakuru, Kenya, officially as a medical intern. I thought it might be a nice idea to blog about some of my experiences here.
  
@@ -16,7 +16,7 @@ I arrived in Kenya on 1st August for my 4-week visit. Julie from the center had 
 At the centre, I was shown around by Julie, the center director and over the coming days would meet all the kids! Everyone was extremely friendly and welcoming, all my worries were quickly put to bed. Over the weekend I got acquainted with the centre some of the volunteers and directors as well as the town, which I will be visiting frequently. I’m also in charge of all things medical at the centre while I’m there – which is a little scary given how little I feel I know, but on the whole it hasn’t been too bad – treating a few cuts and bruises, handing out cough medicine and making sure others take their prescribed medicine on time. I will talk more about the centre possibly in another post, but in this post I want to talk particularly about my trip to Pokot.
  
 
-#Pokot
+######Pokot
 
 Having been at the centre for three days, I was lucky enough to be offered the opportunity to go to Pokot. All the children in the centre are Pokot, one of the many tribes in Kenya; every so often the papers for the children needs to be updated and this required signatures and information from Chiefs and parents in the area. As well as that IHF gets donations for famine feeds, many of the people in Pokot are extremely impoverished and thus from time to time they buy food (maize wheat and animals e.g. goats and chicken) and distribute to a people. 
 
@@ -36,12 +36,5 @@ I can’t help but reflect on some of the difficulties of providing healthcare i
 
 On the way back – I left earlier than the others who stayed a few days longer – I managed to stop off in Lake Baringo where I saw a number of cool things including Hippos and Crocodiles! One week in, already many unforgettable experiences!
 
-<blockquote>
-  <p>
-    Hakuna Matata!	
-  </p>
-</blockquote>
+#####Hakuna Matata!	
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.

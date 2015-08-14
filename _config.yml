@@ -5,10 +5,14 @@ author:      Suhail Aslam
 description: "..."
 baseurl:     ""
 <<<<<<< HEAD
+<<<<<<< HEAD
 url:         "http://www.suhail.io"
 =======
 url:         "http://suhailenator.github.io"
 >>>>>>> parent of aa42b88... big fix for sharing
+=======
+url:         "http://suhailenator.github.io"
+>>>>>>> origin/master
 
 # Google analytics
 google_analytics:

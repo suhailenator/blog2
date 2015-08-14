@@ -2,10 +2,8 @@
 layout: post
 title: First week in Kenya
 summary: A little something I wrote about my first week volunteering in Kenya.
-excerpt: "A little something I wrote about my first week volunteering in Kenya"
-featured_image:https://raw.githubusercontent.com/suhailenator/suhailenator.github.io/master/images/1.jpg
+description: A little something I wrote about my first week volunteering in Kenya.
 date: 2015-08-11
-last_modified_at: 2015-08-14
 categories: kenya
 ---
 

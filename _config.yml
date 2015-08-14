@@ -1,27 +1,21 @@
-#forsocial
-
-timezone: 
-locale:        en_gb
-author:
-  facebook: suhail.aslam
-  twitter: suhail_aslam
-  icon:   # /assets/img/icon.png [best 300px X 300px]
-fb_admins: suhail.aslam
-
 # Site settings
 title:       Suhail's Blog
 email:       suhailenator@gmail.com
 author:      Suhail Aslam
-description: "a blog by Suhail"
+description: "..."
 baseurl:     ""
+<<<<<<< HEAD
 url:         "http://www.suhail.io"
+=======
+url:         "http://suhailenator.github.io"
+>>>>>>> parent of aa42b88... big fix for sharing
 
 # Google analytics
-google_analytics: UA-66360934-1
+google_analytics:
 
 # Optional features
 animated:           true
-show_related_posts: true
+show_related_posts: false
 show_post_footers:  false
 
 # Disqus post comments

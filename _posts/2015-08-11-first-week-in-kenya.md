@@ -2,11 +2,12 @@
 layout: post
 title: First week in Kenya
 summary: A little something I wrote about my first week volunteering in Kenya.
-description: A little something I wrote about my first week volunteering in Kenya.
+excerpt: "A little something I wrote about my first week volunteering in Kenya"
+featured_image: https://raw.githubusercontent.com/suhailenator/suhailenator.github.io/master/images/1.jpg
 date: 2015-08-11
+last_modified_at: 2015-08-14
 categories: kenya
 ---
-
 ###Arrival
 
 As some of you may know, this summer I’m spending a month volunteering at a Children’s home (IHF – see ihfonline.org) in Nakuru, Kenya, officially as a medical intern. I thought it might be a nice idea to blog about some of my experiences here.
